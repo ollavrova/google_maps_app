@@ -1,0 +1,14 @@
+*.sqlite3
+*.pyc
+*.pyo
+*.swp
+*.swo
+*.swn
+.idea
+*~
+build
+media
+static
+*.dat
+venv
+log
